@@ -1,0 +1,5 @@
+{
+  "port": 8181,
+  "ipaddr": "127.0.0.1",
+  "logfile": "chatter.log"
+}

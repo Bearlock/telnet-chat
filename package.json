@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "jsonschema": "^1.4.0",
+    "lodash": "^4.17.21",
+    "nanoid": "^3.1.22"
+  }
+}
