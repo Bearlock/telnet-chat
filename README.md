@@ -10,7 +10,7 @@ This here is my stab at creating a dumb TCP chat server, chat client, and rest s
 
 ## Features
 - A chat server that shuttles messages and different events to the correct clients
-- A chat client that can send/recieve messages, change chat rooms, and change a user's nickname
+- A chat client that can send/receive messages, change chat rooms, and change a user's nickname
 - Log file support for the chat server. All events get written to it.
 - Config file support for determining where the server/client should connect to.
 - An HTTP API that allows folks to query/filter messages and even write one to the chat server.
